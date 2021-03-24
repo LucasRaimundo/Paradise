@@ -1,0 +1,19 @@
+FUNÇÃO GERAL: ADMINISTRAÇÃO E GERENCIAMENTO.
+
+
+O que o administrador do sistema pode fazer? Cadastrar e gerenciar funcionarios, cadastrar e gerenciar vendas e cadastrar e gerenciar estoque.
+
+O que o funcionario pode fazer? Cadastrar e gerenciar vendas e cadastrar e gerenciar estoque.
+
+
+Administrador e funcionario possuem Login e senhas de acesso
+	
+	ADMINISTRADOR 
+Login: Administrador
+Senha: Admin@Admin
+
+
+	FUNCIONARIO
+
+Login: Funcionario
+Senha: Funcionario@Funcionario
